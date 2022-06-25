@@ -1,0 +1,47 @@
+.big {
+    text-align: center;
+    color: red;
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.link{
+    text-align: center; 
+
+}
+h2{
+    color: #1363DF;
+    text-align: center;
+    position: relative;
+    margin-top: 30px;
+
+}
+h3{
+    color: #62059c;
+}
+.listelerAna{
+    list-style-type: square;
+    width: 20px;
+    position: absolute;
+    top: 45%;
+    left: 45%;
+    list-style-position: outside;
+}
+.listelerUrun{
+    
+    position: absolute;
+    top: 45%;
+    left: 40%;
+    list-style-position: outside;
+   
+}
+.listeHakkimizda{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    border-color: red;
+    border: 20px;
+    border-width: 40px;
+    justify-content: space-evenly;
+}
